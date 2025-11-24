@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.pth
+*.pt
+
+logs/
+power_sweep_logs/
+mem_measure_logs/
+checkpoints/
+
+.ipynb_checkpoints/
