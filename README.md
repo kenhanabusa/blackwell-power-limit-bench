@@ -109,8 +109,8 @@ Transformer 学習ベンチマークを実行しつつ、GPU / ファン / サ�
 - 依存パッケージのインストール例（あくまで一例です）:
 
     # PyTorch 本体（CUDA バージョンに応じて公式サイトのコマンドに置き換えてください）
-    # 例: CUDA 12.4 の場合
-    # pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+    # 例: CUDA 12.8 (cu128) の場合（2025-11 時点）
+    # pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 
     pip install -U pip
     pip install pandas matplotlib
