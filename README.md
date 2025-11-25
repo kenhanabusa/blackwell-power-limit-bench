@@ -171,3 +171,21 @@ Python からざっくり中身を確認する例:
   別構成で利用する場合は、パワーリミットの範囲や ipmitool の挙動などを十分確認したうえでご利用ください。
 - ライセンス表記や細かいチューニング情報は今後追記予定です。
 
+
+### 検証時に使用したバージョン（参考）
+
+このリポジトリの結果は、以下の環境で動作確認しています。
+
+- Python 3.11.14
+- PyTorch 2.9.1+cu128
+- torchvision 0.24.1+cu128
+- torchaudio 2.9.1+cu128
+- NVIDIA Driver 580.105.08（`nvidia-smi` 上の CUDA Version 表示は 13.0）
+- CUDA 12.8 系ライブラリ一式（nvidia-cuda-runtime-cu12 12.8.90 / nvidia-cudnn-cu12 9.10.2.21 など）
+
+Blackwell 世代の GPU を使う場合は、
+**少なくとも「PyTorch 2.9 系 + CUDA 12.8 以降」程度の比較的新しいスタック**を使うことを推奨します。
+
+PyTorch 自体のインストールコマンドは OS やパッケージマネージャによって変わるため、  
+最新版については PyTorch 公式サイトの「Get Started」から、
+お使いの環境（Linux / pip or conda / CUDA 12.8 など）を選んで表示されるコマンドを利用してください。
