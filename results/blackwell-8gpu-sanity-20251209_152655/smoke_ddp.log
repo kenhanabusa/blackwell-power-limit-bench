@@ -1,0 +1,5 @@
+world_size=8
+avg iter time: 0.003 s
+payload per iter per GPU: 0.031 GiB (tensor)
+estimated allreduce traffic per iter per GPU: 0.055 GiB
+est. allreduce throughput per GPU: 17.388 GiB/s

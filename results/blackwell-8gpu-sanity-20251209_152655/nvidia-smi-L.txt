@@ -1,0 +1,8 @@
+GPU 0: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-07c4fdaa-2250-30f0-4645-8fce7c9dfbe2)
+GPU 1: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-722eb8f2-9097-1e46-d131-4c7936efd833)
+GPU 2: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-4ec03dee-6f0b-be1f-86d6-a0ff8087df60)
+GPU 3: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-5197e0e1-1b11-2545-3623-40303fa540b8)
+GPU 4: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-ad90c813-4cad-8a6d-77b9-ac7e9c181f73)
+GPU 5: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-7689d359-b6e6-1017-d55d-2ccdca75156c)
+GPU 6: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-304d5d5e-0d82-512b-1895-f90170e8884c)
+GPU 7: NVIDIA RTX PRO 6000 Blackwell Server Edition (UUID: GPU-5a48cc44-2232-5e91-d734-1d0720125fa5)

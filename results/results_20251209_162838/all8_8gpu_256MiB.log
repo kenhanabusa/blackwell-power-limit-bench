@@ -1,0 +1,6 @@
+== all8 devs=0,1,2,3,4,5,6,7 nproc=8 mib=256 ==
+world_size=8
+payload per iter per GPU: 0.250 GiB
+estimated allreduce traffic per iter per GPU: 0.438 GiB
+avg iter time (worst-rank): 0.021968 s
+est. allreduce throughput per GPU: 19.915 GiB/s

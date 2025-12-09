@@ -1,0 +1,62 @@
+CPU1 Temp        | 45.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 107.000   | na        
+CPU2 Temp        | 43.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 107.000   | na        
+System Temp      | 22.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 85.000    | na        
+Peripheral Temp  | 31.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 85.000    | na        
+Inlet Temp       | 21.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 45.000    | na        
+CPU1_VRMIN Temp  | 41.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU1_VRMON Temp  | 35.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU1_VRMHV0 Temp | 28.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU2_VRMIN Temp  | 42.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU2_VRMON Temp  | 34.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU2_VRMHV0 Temp | 29.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU1_VRMHV1 Temp | 29.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU2_VRMHV1 Temp | 29.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU1_VRMFA Temp  | 29.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+CPU2_VRMFA Temp  | 29.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+P1_DIMMA~F Temp  | 28.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 85.000    | na        
+P1_DIMMG~L Temp  | 29.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 85.000    | na        
+P2_DIMMA~F Temp  | 28.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 85.000    | na        
+P2_DIMMG~L Temp  | 27.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 85.000    | na        
+M2_SSD1 Temp     | na         |            | na    | na        | na        | na        | na        | na        | na        
+M2_SSD2 Temp     | na         |            | na    | na        | na        | na        | na        | na        | na        
+Front Fan RPM    | 3600.000   | RPM        | ok    | na        | 600.000   | na        | na        | na        | na        
+Rear Fan RPM     | 4100.000   | RPM        | ok    | na        | 300.000   | na        | na        | na        | na        
+CPU1_VCCIN       | 1.840      | Volts      | ok    | 0.000     | 0.000     | na        | na        | 2.070     | 2.160     
+CPU1_VCCON       | 0.730      | Volts      | ok    | 0.550     | 0.550     | na        | na        | 1.000     | 1.000     
+CPU1_VCCHV0      | 1.120      | Volts      | ok    | 0.848     | 0.904     | na        | na        | 1.272     | 1.328     
+CPU1_VCCHV1      | 1.120      | Volts      | ok    | 0.896     | 0.952     | na        | na        | 1.264     | 1.328     
+CPU2_VCCIN       | 1.840      | Volts      | ok    | 0.000     | 0.000     | na        | na        | 2.070     | 2.160     
+CPU2_VCCON       | 0.720      | Volts      | ok    | 0.550     | 0.550     | na        | na        | 1.000     | 1.000     
+CPU2_VCCHV0      | 1.120      | Volts      | ok    | 0.848     | 0.904     | na        | na        | 1.272     | 1.328     
+CPU2_VCCHV1      | 1.120      | Volts      | ok    | 0.896     | 0.952     | na        | na        | 1.264     | 1.328     
+MB 12V           | 12.075     | Volts      | ok    | 10.731    | 10.731    | na        | na        | 13.251    | 13.251    
+MB 5VCC          | 4.987      | Volts      | ok    | 4.232     | 4.484     | na        | na        | 5.534     | 5.744     
+MB 3.3VCC        | 3.317      | Volts      | ok    | 2.732     | 2.872     | na        | na        | 3.528     | 3.691     
+VBAT             | 0x4        | discrete   | 0x04ff| na        | na        | na        | na        | na        | na        
+BMC 2.5V         | 2.541      | Volts      | ok    | 1.976     | 2.093     | na        | na        | 2.580     | 2.678     
+BMC 1.8V         | 1.817      | Volts      | ok    | 1.518     | 1.596     | na        | na        | 1.960     | 2.051     
+BMC 3.3V         | 3.387      | Volts      | ok    | 2.732     | 2.872     | na        | na        | 3.528     | 3.691     
+BMC 1.2V         | 1.205      | Volts      | ok    | 1.009     | 1.068     | na        | na        | 1.313     | 1.372     
+BMC 1.0V         | 1.007      | Volts      | ok    | 0.938     | 0.938     | na        | na        | 1.164     | 1.164     
+MB 12V_AUX       | 12.155     | Volts      | ok    | 10.795    | 10.795    | na        | na        | 13.345    | 13.345    
+MB 5V_AUX        | 5.030      | Volts      | ok    | 4.232     | 4.484     | na        | na        | 5.534     | 5.744     
+MB 3.3V_AUX      | 3.411      | Volts      | ok    | 2.732     | 2.732     | na        | na        | 3.528     | 3.691     
+CPU1_PVNN        | 1.017      | Volts      | ok    | 0.850     | 0.899     | na        | na        | 1.105     | 1.144     
+CPU2_PVNN        | 1.007      | Volts      | ok    | 0.782     | 0.831     | na        | na        | 1.173     | 1.223     
+MB 1.8V_AUX      | 1.817      | Volts      | ok    | 1.531     | 1.609     | na        | na        | 1.986     | 2.064     
+MB 12VSB         | 12.240     | Volts      | ok    | 10.795    | 10.795    | na        | na        | 13.345    | 13.345    
+Chassis Intru    | 0x1        | discrete   | 0x0100| na        | na        | na        | na        | na        | na        
+PS1 Status       | 0x1        | discrete   | 0x0100| na        | na        | na        | na        | na        | na        
+PS2 Status       | 0x1        | discrete   | 0x0100| na        | na        | na        | na        | na        | na        
+PS3 Status       | 0x1        | discrete   | 0x0100| na        | na        | na        | na        | na        | na        
+GPU16 Temp       | 34.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+GPU2 Temp        | 33.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+GPU4 Temp        | 34.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+GPU6 Temp        | 33.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+GPU8 Temp        | 31.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+GPU10 Temp       | 33.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+GPU12 Temp       | 33.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+GPU14 Temp       | 34.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 80.000    | 82.000    
+AOC_NIC20 Temp   | 31.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 100.000   | na        
+NVMe_SSDA Temp   | 31.000     | degrees C  | ok    | na        | 5.000     | na        | na        | 70.000    | na        
+NVMe_SSDB Temp   | na         |            | na    | na        | na        | na        | na        | na        | na        

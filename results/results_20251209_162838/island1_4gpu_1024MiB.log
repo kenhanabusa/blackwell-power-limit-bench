@@ -1,0 +1,6 @@
+== island1 devs=4,5,6,7 nproc=4 mib=1024 ==
+world_size=4
+payload per iter per GPU: 1.000 GiB
+estimated allreduce traffic per iter per GPU: 1.500 GiB
+avg iter time (worst-rank): 0.071049 s
+est. allreduce throughput per GPU: 21.112 GiB/s

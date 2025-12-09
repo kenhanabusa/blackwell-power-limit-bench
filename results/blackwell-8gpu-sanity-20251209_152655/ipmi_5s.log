@@ -1,0 +1,10 @@
+2025-12-09 15:26:56
+     Instantaneous power reading:                   810 Watts     Minimum during sampling period:                806 Watts     Maximum during sampling period:                810 Watts     Average power reading over sample period:      807 Watts     IPMI timestamp:                           12/09/2025 03:26:54 PM JST    Sampling period:                          00003560 Seconds.     Power reading state is:                   activated   
+FrontFanRPM=3600(+/-0)RPM
+RearFanRPM=4100(+/-0)RPM
+----
+2025-12-09 15:27:02
+     Instantaneous power reading:                   810 Watts     Minimum during sampling period:                806 Watts     Maximum during sampling period:                810 Watts     Average power reading over sample period:      807 Watts     IPMI timestamp:                           12/09/2025 03:27:00 PM JST    Sampling period:                          00003565 Seconds.     Power reading state is:                   activated   
+FrontFanRPM=3600(+/-0)RPM
+RearFanRPM=4100(+/-0)RPM
+----
